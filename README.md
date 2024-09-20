@@ -1,4 +1,4 @@
-## Gabriel Sousa 👋
+<h1>Gabriel Sousa 👋</h1>
 
 <h2 style="font-size: 22px">FORMAÇÃO ACADÊMICA</h2>
 <ul>
