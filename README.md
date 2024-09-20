@@ -1,3 +1,9 @@
+<style>
+  img{
+    width: 22px;
+    height: 22px;
+  }
+</style>
 <h1>Gabriel Sousa 👋</h1>
 
 <h2 style="font-size: 22px">FORMAÇÃO ACADÊMICA</h2>
