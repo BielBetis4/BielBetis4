@@ -1,6 +1,6 @@
 ## Gabriel Sousa 👋
 
-<h2>FORMAÇÃO ACADÊMICA</h2>
+<h2 style="font-size: 22px">FORMAÇÃO ACADÊMICA</h2>
 <ul>
   <li><h3>Técnico em Desenvolvimento de Sistemas - ETECVAV</h3></li>
 </ul>
