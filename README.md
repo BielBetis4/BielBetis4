@@ -6,7 +6,7 @@
 </ul>
 
 <p>Eu sou um desenvolvedor front-end a caminho de ser full-stack. Eu tiro os projetos do papel os transformando em código do zero,
-eu tenho a capacidade de planejar e criar o design de soluções para resolver problemas do dia-a-dia. Tenho a habilidade de comin
+eu tenho a capacidade de planejar e criar o design de soluções para resolver problemas do dia-a-dia. Tenho a habilidade de liderança e comunicação
 </p>
 
 <!--
