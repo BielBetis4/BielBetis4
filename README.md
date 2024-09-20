@@ -9,6 +9,13 @@
 eu tenho a capacidade de planejar e criar o design de soluções para resolver problemas do dia-a-dia. Tenho a habilidade de liderança e comunicação
 </p>
 
+### Linguagens e Frameworks
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+          
 <!--
 **BielBetis4/BielBetis4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
