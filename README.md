@@ -1,9 +1,3 @@
-<style>
-  img{
-    width: 22px;
-    height: 22px;
-  }
-</style>
 <h1>Gabriel Sousa 👋</h1>
 
 <h2 style="font-size: 22px">FORMAÇÃO ACADÊMICA</h2>
@@ -17,9 +11,9 @@ eu tenho a capacidade de planejar e criar o design de soluções para resolver p
 
 ### Linguagens e Frameworks
 
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           
           
 <!--
