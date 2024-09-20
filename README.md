@@ -6,7 +6,7 @@
 </ul>
 
 <p>Desenvolvedor front-end a caminho de ser full-stack. Tiro os projetos do papel os transformando em código do zero,
-capacidade de planejar e criar o design de soluções para resolver problemas do dia-a-dia. Habilidade de liderança e comunicação
+capacidade de planejar e criar o design de soluções para resolver problemas do dia-a-dia. Habilidade de liderança e comunicação.
 </p>
 
 ---
