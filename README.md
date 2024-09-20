@@ -11,9 +11,9 @@ eu tenho a capacidade de planejar e criar o design de soluções para resolver p
 
 ### Linguagens e Frameworks
 
-<img alig="left" width="35px" style="display: inline" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img alig="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img alig="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img alig="left" width="35px" style="display: inline;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img alig="left" width="35px" style="display: inline;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img alig="left" width="35px" style="display: inline;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           
           
 <!--
