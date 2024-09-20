@@ -18,6 +18,10 @@ capacidade de planejar e criar o design de soluções para resolver problemas do
   <img alig="left" width="35px" style="display: inline;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <br />
 </div>
+
+---
+
+### Projetos
           
           
 <!--
