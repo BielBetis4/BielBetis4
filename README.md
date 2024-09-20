@@ -9,6 +9,8 @@
 eu tenho a capacidade de planejar e criar o design de soluções para resolver problemas do dia-a-dia. Tenho a habilidade de liderança e comunicação
 </p>
 
+---
+
 ### Linguagens e Frameworks
 
 <img alig="left" width="35px" style="padding-rigth: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
