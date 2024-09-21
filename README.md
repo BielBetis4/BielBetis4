@@ -12,7 +12,7 @@ capacidade de planejar e criar o design de soluções para resolver problemas do
 ---
 
 ### Linguagens e Frameworks
-<div class="inline" style="display: inline-flex">
+<div class="inline" style="display: inline-flex; justify-content:"space-evenly">
   <img aling="left" width="40px" style="padding-right: 10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img aling="left" width="40px" style="padding-right: 10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img aling="left" width="40px" style="padding-right: 10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
